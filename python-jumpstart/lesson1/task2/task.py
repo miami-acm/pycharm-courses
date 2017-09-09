@@ -1,0 +1,12 @@
+my_name = (insert your name here)
+
+print(f'Hello Ann, my name is {my_name}')
+print(f'Hello Chris, my name is Joe')
+print(f'Hello Bob, my name is Joe')
+print(f'Hello Steve, my name is Joe')
+print(f'Hello Luke, my name is Joe')
+print(f'Hello Noah, my name is Joe')
+print(f'Hello Amy, my name is Joe')
+print(f'Hello Alex, my name is Joe')
+print(f'Hello Mike, my name is Joe')
+print(f'Hello Will, my name is Joe')
