@@ -86,510 +86,6 @@
                                     <AnswerPlaceholder>
                                       <option name="index" value="0" />
                                       <option name="initialState" />
-                                      <option name="length" value="22" />
-                                      <option name="offset" value="91" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(second person's name)" />
-                                                <option name="possibleAnswer" value="Chris" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="1" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="109" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="2" />
-                                      <option name="initialState" />
-                                      <option name="length" value="21" />
-                                      <option name="offset" value="129" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(third person's name)" />
-                                                <option name="possibleAnswer" value="Bob" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="3" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="145" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="4" />
-                                      <option name="initialState" />
-                                      <option name="length" value="22" />
-                                      <option name="offset" value="165" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(fourth person's name)" />
-                                                <option name="possibleAnswer" value="Steve" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="5" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="183" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="6" />
-                                      <option name="initialState" />
-                                      <option name="length" value="21" />
-                                      <option name="offset" value="203" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(fifth person's name)" />
-                                                <option name="possibleAnswer" value="Luke" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="7" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="220" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="8" />
-                                      <option name="initialState" />
-                                      <option name="length" value="21" />
-                                      <option name="offset" value="240" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(sixth person's name)" />
-                                                <option name="possibleAnswer" value="Noah" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="9" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="257" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="10" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="277" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(seventh person's name)" />
-                                                <option name="possibleAnswer" value="Amy" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="11" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="293" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="12" />
-                                      <option name="initialState" />
-                                      <option name="length" value="22" />
-                                      <option name="offset" value="313" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(eighth person's name)" />
-                                                <option name="possibleAnswer" value="Alex" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="13" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="330" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="14" />
-                                      <option name="initialState" />
-                                      <option name="length" value="21" />
-                                      <option name="offset" value="350" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(ninth person's name)" />
-                                                <option name="possibleAnswer" value="Mike" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="15" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="367" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="16" />
-                                      <option name="initialState" />
-                                      <option name="length" value="21" />
-                                      <option name="offset" value="387" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="0">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(tenth person's name)" />
-                                                <option name="possibleAnswer" value="Will" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="17" />
-                                      <option name="initialState" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="404" />
-                                      <option name="selected" value="false" />
-                                      <option name="subtaskInfos">
-                                        <map>
-                                          <entry key="1">
-                                            <value>
-                                              <AnswerPlaceholderSubtaskInfo>
-                                                <option name="answer" value="" />
-                                                <option name="hasFrame" value="true" />
-                                                <option name="hints">
-                                                  <list />
-                                                </option>
-                                                <option name="needInsertText" value="false" />
-                                                <option name="placeholderText" value="(insert {my_name} here)" />
-                                                <option name="possibleAnswer" value="Joe" />
-                                                <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
-                                              </AnswerPlaceholderSubtaskInfo>
-                                            </value>
-                                          </entry>
-                                        </map>
-                                      </option>
-                                      <option name="useLength" value="false" />
-                                    </AnswerPlaceholder>
-                                    <AnswerPlaceholder>
-                                      <option name="index" value="18" />
-                                      <option name="initialState" />
                                       <option name="length" value="21" />
                                       <option name="offset" value="10" />
                                       <option name="selected" value="false" />
@@ -617,6 +113,510 @@
                                       </option>
                                       <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="1" />
+                                      <option name="initialState" />
+                                      <option name="length" value="22" />
+                                      <option name="offset" value="91" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(second person's name)" />
+                                                <option name="possibleAnswer" value="Chris" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="2" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="109" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="3" />
+                                      <option name="initialState" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="129" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(third person's name)" />
+                                                <option name="possibleAnswer" value="Bob" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="4" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="145" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="5" />
+                                      <option name="initialState" />
+                                      <option name="length" value="22" />
+                                      <option name="offset" value="165" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(fourth person's name)" />
+                                                <option name="possibleAnswer" value="Steve" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="6" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="183" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="7" />
+                                      <option name="initialState" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="203" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(fifth person's name)" />
+                                                <option name="possibleAnswer" value="Luke" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="8" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="220" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="9" />
+                                      <option name="initialState" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="240" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(sixth person's name)" />
+                                                <option name="possibleAnswer" value="Noah" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="10" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="257" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="11" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="277" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(seventh person's name)" />
+                                                <option name="possibleAnswer" value="Amy" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="12" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="293" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="13" />
+                                      <option name="initialState" />
+                                      <option name="length" value="22" />
+                                      <option name="offset" value="313" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(eighth person's name)" />
+                                                <option name="possibleAnswer" value="Alex" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="14" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="330" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="15" />
+                                      <option name="initialState" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="350" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(ninth person's name)" />
+                                                <option name="possibleAnswer" value="Mike" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="16" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="367" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="17" />
+                                      <option name="initialState" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="387" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(tenth person's name)" />
+                                                <option name="possibleAnswer" value="Will" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="18" />
+                                      <option name="initialState" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="404" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="1">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list />
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="(insert {my_name} here)" />
+                                                <option name="possibleAnswer" value="Joe" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
                                   </list>
                                 </option>
                                 <option name="highlightErrors" value="true" />
@@ -633,6 +633,15 @@
                       </option>
                     </TaskWithSubtasks>
                   </list>
+                </option>
+              </Lesson>
+              <Lesson>
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Making your own Calculator" />
+                <option name="updateDate" />
+                <option name="taskList">
+                  <list />
                 </option>
               </Lesson>
             </list>
